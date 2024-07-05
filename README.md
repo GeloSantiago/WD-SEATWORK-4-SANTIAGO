@@ -58,7 +58,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-The website displays a project's folder with photos investigating meteorological phenomena in unique ways. Users can navigate subfolders to explore various weather images and the inventive works of opium designers. Built solely with HTML and CSS, it offers an immersive experience that highlights distinctive UI/UX features. The site functions as both a gallery and an interactive platform, allowing users to explore and create designs inspired by opium artistry.
+Moose, reindeer, elephants, and leopards are remarkable animals each with unique characteristics and habitats. Moose, the largest members of the deer family, are found in northern regions such as Canada, Alaska, and Scandinavia, thriving in forests and wetlands. Reindeer, also known as caribou in North America, are adapted to cold Arctic and subarctic environments, where they migrate vast distances in search of food. Elephants, the largest land animals, are distinguished by their long trunks, large ears, and tusks, and are native to Africa and Asia, inhabiting diverse landscapes from savannas to forests. Leopards, with their distinctive spotted coats, are highly adaptable big cats found in Africa and parts of Asia, known for their solitary and elusive nature. Each of these animals plays a crucial role in their ecosystems, from the forest-dwelling moose shaping vegetation patterns to the powerful elephant engineering their habitats, while leopards and reindeer contribute to the biodiversity of their respective regions.
 
 Guiding Question:
 - What is the project
